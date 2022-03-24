@@ -1,3 +1,3 @@
 # learning
 
-hier kommt der Inhalt
+erste Versuche mit github
